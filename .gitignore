@@ -1,0 +1,5 @@
+# virtualenv
+app/api/venv
+
+# python
+__pycache__
