@@ -3,3 +3,6 @@ app/api/venv
 
 # python
 __pycache__
+
+# vs code
+.vs
