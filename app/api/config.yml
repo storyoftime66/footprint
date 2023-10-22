@@ -1,0 +1,8 @@
+# db
+db:
+  dialect: mysql
+  driver: pymysql
+  host: localhost:3307
+  user: root
+  password: root
+  database: footprint
