@@ -15,5 +15,5 @@ class Photo(Base):
     height = Column(Integer)
     photographer = Column(String)
     taken_time = Column(DateTime)
-    create_time = Column(DateTime, default=datetime.now())
-    update_time = Column(DateTime, default=datetime.now())
+    created_time = Column(DateTime, default=datetime.now())
+    updated_time = Column(DateTime, default=datetime.now())
